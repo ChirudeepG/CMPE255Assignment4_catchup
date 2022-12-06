@@ -42,3 +42,8 @@ You need to submit the github directory link for the assignment
 Any good visualization tools usage in colab will be appreciated as well to do interactive display like https://pair-code.github.io/understanding-umap/ Links to an external site.paper tools.
 
  b) Demonstrate dimensionality reduction using data bricks
+ 
+ 
+ COllab Links:
+ a)For image data: https://colab.research.google.com/drive/1fXgoVLepWal5xWXShs4MarZ-aPOEWL8t?usp=share_link
+ b)For table data: https://colab.research.google.com/drive/1t7H_Nnkd4j7aBWxnfg9c-R-HYzSaXSEJ?usp=share_link
